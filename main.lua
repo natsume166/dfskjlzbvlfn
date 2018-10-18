@@ -34,7 +34,8 @@ local params = {
 	{ radius=18, xDir=1, yDir=1, xSpeed=2.5, ySpeed=6.0, r=1, g=0, b=0.1 },
 	{ radius=15, xDir=1, yDir=1, xSpeed=3.5, ySpeed=4.0, r=0.95, g=0.1, b=0.3 },
 	{ radius=22, xDir=1, yDir=-1, xSpeed=5.5, ySpeed=5.0, r=0.9, g=0.2, b=0.5 },
-	{ radius=30, xDir=1, yDir=-1, xSpeed=6.5, ySpeed=3.0, r=2, g=0.1, b=0.5 }
+	{ radius=30, xDir=1, yDir=-1, xSpeed=6.5, ySpeed=3.0, r=2, g=0.1, b=0.5 },
+	{ radius=10, xDir=1, yDir=-1, xSpeed=0.5, ySpeed=0.75, r=0.5, g=0, b=0}
 }
 
 local ballCollection = {}
